@@ -5,7 +5,7 @@ import Me from './pages/me.react';
 import NotFound from './pages/notFound.react';
 import React from 'react';
 import Todos from './pages/todos.react';
-import {IndexRoute, Route} from 'react-router';
+import {IndexRoute, Route} from 'react-router-dom';
 
 import Wiki from './wiki/pages/wiki';
 import WikiEdit from './wiki/pages/edit';

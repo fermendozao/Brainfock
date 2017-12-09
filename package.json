@@ -313,6 +313,9 @@
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "babel-plugin-transform-function-bind": "^6.22.0",
     "gulp-mocha": "^3.0.1",
-    "loopback-webpack-plugin": "^0.1.2"
+    "history": "1.9.0",
+    "loopback-webpack-plugin": "^0.1.2",
+    "react-router-dom": "^4.2.2",
+    "redux-storage": "^4.1.2"
   }
 }
